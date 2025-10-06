@@ -7,4 +7,4 @@ Este projeto foi desenvolvido como parte da atividade [Front end challenge sprin
 
 ## Integrantes
 - Alisson Kawan Evangelista Silva
-- Marcos Vinicuis de Jesus Almeida
+- Marcos Vinicius de Jesus Almeida
